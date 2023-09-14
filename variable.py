@@ -1,0 +1,12 @@
+a=123
+b=567
+c=789
+print(a,b,c)
+a=b=c=134,564,244
+print(b)
+a=b=c=134
+print(a,b,c)
+_python=134
+print(_python)
+a,b,c=23,46,66
+print(a,b,c)
