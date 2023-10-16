@@ -17,7 +17,7 @@ def count_upper_lower_case_characters(input_string):
     return f"No. of Upper case characters: {upper_count}\nNo. of Lower case Characters: {lower_count}"
 
 # Sample string
-sample_string = 'Hii Bhanu Morning'
+sample_string = 'The quick Brow Fox'
 result = count_upper_lower_case_characters(sample_string)
 print(result) 
 
